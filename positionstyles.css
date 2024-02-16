@@ -163,7 +163,7 @@
   grid-row:1/4
 } 
 .green6 {
-  width: 200px; 
+  width: 200px;
   height: 200px; 
   background-color: green; 
   grid-column: 1/3;
